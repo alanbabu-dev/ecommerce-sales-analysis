@@ -1,121 +1,121 @@
-OrderID  OrderDate  CustomerID  Gender       Age  Product          Category     Quantity UnitPrice Discount PaymentMethod   Region  City       OrderStatus
-ORD0001   06-05-2025CUST048     Female          61Wireless Mouse   Electronics          2   ? 18.99       0%Net Banking     West    Mumbai     Returned
-ORD0002   17-02-2025CUST033     Prefer not to   19Python Basics    Books                2   ? 24.99       0%Net Banking     South   Kozhikode  Returned
-ORD0003   29-10-2025CUST049     Female          62Data Analytics GuBooks                3   ? 32.50       0%Cash on DeliveryEast    BhubaneswarDelivered
-ORD0004   22-02-2025CUST007     Male            40Coffee Maker     Home & Kitche        1   ? 79.00      10%Net Banking     West    Pune       Delivered
-ORD0005   10-02-2025CUST054     Prefer not to   57Python Basics    Books                5   ? 24.99       5%Debit Card      East    Patna      Delivered
-ORD0006   29-05-2025CUST007     Male            35Wireless Mouse   Electronics          1   ? 18.99       0%Cash on DeliveryNorth   Lucknow    Delivered
-ORD0007   18-04-2025CUST039     Prefer not to   28Storage Box      Home & Kitche        3pi               0%Net Banking     West    Ahmedabad  Delivered
-ORD0008   19-05-2025CUST044     Male              Desk Lamp        Home & Kitche        5   ? 28.00       0%Credit Card     East    Kolkata    Delivered
-ORD0009   19-04-2025CUST014     Prefer not to   49Business Skills  Books                5   ? 19.99       5%Cash on DeliverySouth   Chennai    Delivered
-ORD0010   15-10-2025CUST048     Prefer not to   45Backpack         Fashion              5   ? 39.99       5%Net Banking     North   Jaipur     Delivered
-ORD0011   16-02-2025CUST010     Prefer not to   28Coffee Maker     Home & Kitche        1   ? 79.00       0%Cash on DeliveryEast    Patna      Delivered
-ORD0012   28-09-2025CUST001     Prefer not to   64SQL Handbook     Books                3   ? 27.00      15%UPI             East    Patna      Returned
-ORD0013   31-05-2025CUST030     Female          64Sneakers         Fashion              4   ? 64.00       0%Debit Card      South   Kozhikode  Returned
-ORD0014   20-03-2025CUST035     Prefer not to   18Keyboard         Electronics          3   ? 34.50       0%Net Banking     North   Jaipur     Cancelled
-ORD0015   07-06-2025CUST016     Prefer not to   23Wireless Mouse   Electronics          2   ? 18.99       0%UPI             West    Unknown    Cancelled
-ORD0016   04-12-2025CUST011     Male            51Headphones       Electronics          4   ? 49.99      15%Net Banking     North   Jaipur     Delivered
-ORD0017   10-12-2025CUST034     Male            25Storage Box      Home & Kitche        3   ? 16.75      10%Credit Card     East    Kolkata    Delivered
-ORD0018   29-10-2025CUST005     Prefer not to   58T-Shirt          Fashion              2   ? 15.00       0%UPI             North   Delhi      Delivered
-ORD0019   21-09-2025CUST043     Male            31Keyboard         Electronics          2   ? 34.50       5%Net Banking     South   Kozhikode  Returned
-ORD0020   28-07-2025CUST007     Prefer not to   45Data Analytics GuBooks                2   ? 32.50       0%Debit Card      East    BhubaneswarCancelled
-ORD0021   01-02-2025CUST052     Female          33Python Basics    Books                4   ? 24.99       5%Credit Card     South   Kozhikode  Returned
-ORD0022   04-04-2025CUST016     Female          46Data Analytics GuBooks                3   ? 32.50      10%Net Banking     East    Kolkata    Delivered
-ORD0023   27-03-2025CUST031     Female          43Wireless Mouse   Electronics          4   ? 18.99      10%Unknown         North   Delhi      Cancelled
-ORD0024   21-08-2025CUST045     Prefer not to   53USB Hub          Electronics          3   ? 22.00      10%Cash on DeliveryWest    Mumbai     Delivered
-ORD0025   24-10-2025CUST048     Male            21Backpack         Fashion              5   ? 39.99       0%UPI             South   Chennai    Returned
-ORD0026   06-04-2025CUST005     Prefer not to   33Water Bottle     Home & Kitche        1   ? 12.50      15%Cash on DeliverySouth   Kochi      Returned
-ORD0027   03-08-2025CUST034     Male            34Water Bottle     Home & Kitche        5   ? 12.50      15%Credit Card     South   Bengaluru  Delivered
-ORD0028   10-12-2025CUST021     Female          18Jacket           Fashion              3   ? 89.00      10%Cash on DeliveryNorth   Lucknow    Returned
-ORD0029   17-09-2025CUST023     Female          33Wireless Mouse   Electronics          3   ? 18.99       0%Debit Card      North   Jaipur     Delivered
-ORD0030   08-12-2025CUST043     Female          26Business Skills  Books                5   ? 19.99       5%Debit Card      South   Kochi      Delivered
-ORD0031   06-11-2025CUST014     Prefer not to   58Storage Box      Home & Kitche        2   ? 16.75       5%Debit Card      West    Ahmedabad  Cancelled
-ORD0032   21-11-2025CUST003     Female            T-Shirt          Fashion              4   ? 15.00       5%Credit Card     South   Bengaluru  Delivered
-ORD0033   27-02-2025CUST035     Female          41SQL Handbook     Books                1   ? 27.00       0%Net Banking     South   Kozhikode  Cancelled
-ORD0034   06-07-2025CUST014     Prefer not to   33Water Bottle     Home & Kitche        1   ? 12.50       5%UPI             West    Pune       Returned
-ORD0035   25-03-2025CUST002     Female          65Data Analytics GuBooks                2   ? 32.50      10%Debit Card      North   Jaipur     Delivered
-ORD0036   15-07-2025CUST015     Female          47Backpack         Fashion              1   ? 39.99      10%Debit Card      South   Bengaluru  Delivered
-ORD0037   24-07-2025CUST005     Male            40Water Bottle     Home & Kitche        3   ? 12.50       5%Net Banking     North   Jaipur     Returned
-ORD0038   14-05-2025CUST017     Female          24T-Shirt          Fashion              2   ? 15.00      15%Net Banking     South   Chennai    Delivered
-ORD0039   17-07-2025CUST017     Female          63Jacket           Fashion              5   ? 89.00       0%Cash on DeliverySouth   Kochi      Returned
-ORD0040   05-02-2025CUST021     Prefer not to   25Storage Box      Home & Kitche        3   ? 16.75      15%Debit Card      East    Patna      Delivered
-ORD0041   23-12-2025CUST009     Female          44Business Skills  Books                3   ? 19.99      15%Cash on DeliveryEast    Patna      Delivered
-ORD0042   05-06-2025CUST028     Prefer not to   56Jacket           Fashion              3   ? 89.00       0%Debit Card      South   Chennai    Cancelled
-ORD0043   28-03-2025CUST033     Prefer not to   58Data Analytics GuBooks                1   ? 32.50       5%Net Banking     East    BhubaneswarDelivered
-ORD0044   12-04-2025CUST003     Female          48Storage Box      Home & Kitche        2   ? 16.75       0%Net Banking     North   Delhi      Cancelled
-ORD0045   11-09-2025CUST010     Prefer not to   62Data Analytics GuBooks                4   ? 32.50       0%UPI              south  Kolkata    Cancelled
-ORD0046   26-01-2025CUST055     Female          47Coffee Maker     Home & Kitche        5   ? 79.00       0%Credit Card     East    BhubaneswarReturned
-ORD0047   08-10-2025CUST048     Male            46Jacket           Fashion              4   ? 89.00       0%Debit Card      East    Kolkata    Delivered
-ORD0048   14-08-2025CUST016     Male            39Data Analytics GuBooks                1   ? 32.50       5%Debit Card      West    Ahmedabad  Delivered
-ORD0049   16-07-2025CUST005     Male            44Coffee Maker     Home & Kitche        2   ? 79.00       0%Debit Card      North   Lucknow    Cancelled
-ORD0050   04-08-2025CUST045     Female          54Python Basics    Books                4   ? 24.99      15%Cash on DeliveryNorth   Jaipur     Delivered
-ORD0051   03-08-2025CUST052     Prefer not to   32Sneakers         Fashion              5   ? 64.00      15%Cash on DeliveryEast    Kolkata    Delivered
-ORD0052   19-07-2025CUST047     Female          47SQL Handbook     Books                3   ? 27.00      10%Credit Card     South   Kochi      Cancelled
-ORD0053   11-03-2025CUST004     Male            42Wireless Mouse   Electronics          4   ? 18.99       0%Debit Card      East    Kolkata    Cancelled
-ORD0054   23-05-2025CUST054     Female          48Sneakers         Fashion              4   ? 64.00       5%UPI             East    Patna      Returned
-ORD0055   29-11-2025CUST049     Female          33Keyboard         Electronics          1   ? 34.50       0%Credit Card     North   Delhi      Returned
-ORD0056   31-08-2025CUST014     Male            62Coffee Maker     Home & Kitche        1   ? 79.00      15%Debit Card      North   Jaipur     Delivered
-ORD0057   25-02-2025CUST020     Prefer not to   61Headphones       Electronics          5   ? 49.99       0%Cash on DeliveryWest    Pune       Delivered
-ORD0058   23-12-2025CUST052     Female          54Headphones       Electronics          3   ? 49.99      15%UPI             South   Bengaluru  Returned
-ORD0059   17-09-2025CUST055     Male            49Business Skills  Books                3   ? 19.99       0%UPI             South   Unknown    Delivered
-ORD0060   01-04-2025CUST040     Prefer not to   48Data Analytics GuBooks                5   ? 32.50       5%Cash on DeliveryEast    BhubaneswarReturned
-ORD0061   14-02-2025CUST016     Male            54Sneakers         Fashion              3   ? 64.00      10%Net Banking     North   Lucknow    Cancelled
-ORD0062   16-06-2025CUST014     Male            34T-Shirt          Fashion              2   ? 15.00      10%Debit Card      East    BhubaneswarReturned
-ORD0063   13-02-2025CUST032     Prefer not to   33T-Shirt          Fashion              2   ? 15.00      10%Cash on DeliveryNorth   Lucknow    Cancelled
-ORD0064   31-05-2025CUST045     Female          37Python Basics    Books                2   ? 24.99      10%Net Banking     South   Bengaluru  Cancelled
-ORD0065   30-06-2025CUST020     Male            32Jacket           Fashion              4   ? 89.00       5%UPI             West    Ahmedabad  Delivered
-ORD0066   09-04-2025CUST018     Prefer not to   55T-Shirt          Fashion              2   ? 15.00      10%Net Banking     North   Lucknow    Delivered
-ORD0067   27-04-2025CUST020     Female          63Headphones       Electronics          3   ? 49.99       0%Net Banking     West    Mumbai     Delivered
-ORD0068   24-12-2025CUST007     Female          54Wireless Mouse   Electronics          2   ? 18.99      10%Debit Card      West    Pune       Cancelled
-ORD0069   27-01-2025CUST008     Female          43Business Skills  Books                3   ? 19.99      10%Cash on DeliveryNorth   Delhi      Returned
-ORD0070   16-10-2025CUST016     Female          53Headphones       Electronics          3   ? 49.99       0%Cash on DeliveryNorth   Lucknow    Returned
-ORD0071   15-08-2025CUST028     Male            54Desk Lamp        Home & Kitche        3   ? 28.00      15%Net Banking     East    Kolkata    Returned
-ORD0072   16-05-2025CUST016     Female          53Headphones       Electronics          1   ? 49.99       0%UPI             North   Delhi      Delivered
-ORD0073   30-05-2025CUST019     Prefer not to   36SQL Handbook     Books                1   ? 27.00       0%Cash on DeliveryEast    Kolkata    Delivered
-ORD0074   28-02-2025CUST042     Female          35Backpack         Fashion              5   ? 39.99       0%Credit Card     East    Kolkata    Delivered
-ORD0075   13-08-2025CUST045     Male            62Storage Box      Home & Kitche        1   ? 16.75      10%Cash on DeliveryWest    Pune       Returned
-ORD0076   03-11-2025CUST048     Male            56SQL Handbook     Books                1   ? 27.00      10%Debit Card      South   Kochi      Delivered
-ORD0077   23-10-2025CUST031     Prefer not to say Water Bottle     Home & Kitche        1   ? 12.50       0%Cash on DeliveryWest    Pune       Delivered
-ORD0078   29-08-2025CUST022     Male            60SQL Handbook     Books                3   ? 27.00      10%UPI             South   Kozhikode  Delivered
-ORD0079   06-12-2025CUST003     Male            23SQL Handbook     Books                4   ? 27.00      15%Debit Card      West    Pune       Delivered
-ORD0080   03-12-2025CUST027     Female          30USB Hub          Electronics          5   ? 22.00      10%Net Banking     South   Bengaluru  Returned
-ORD0081   15-04-2025CUST009     Male            46SQL Handbook     Books                3   ? 27.00      15%Cash on DeliverySouth   Kochi      Delivered
-ORD0082   10-10-2025CUST027     Female          32Coffee Maker     Home & Kitche        1   ? 79.00      15%UPI             West    Pune       Delivered
-ORD0083   18-09-2025CUST054     Male            48Desk Lamp        Home & Kitche        3   ? 28.00      10%Credit Card     West    Pune       Returned
-ORD0084   03-11-2025CUST005     Male            44Desk Lamp        Home & Kitche        5   ? 28.00       0%Debit Card      North   Lucknow    Delivered
-ORD0085   28-10-2025CUST010     Male            52Keyboard         Electronics          5   ? 34.50      10%Cash on DeliveryWest    Pune       Delivered
-ORD0086   07-04-2025CUST025     Female          44SQL Handbook     Books                2   ? 27.00      15%UPI             West    Pune       Cancelled
-ORD0087   11-09-2025CUST033     Prefer not to   39SQL Handbook     Books                1   ? 27.00       0%UPI             North   Jaipur     Delivered
-ORD0088   29-07-2025CUST031     Male            39Python Basics    Books                2   ? 24.99       0%Net Banking     North   Lucknow    Cancelled
-ORD0089   12-06-2025CUST003     Prefer not to   22Keyboard         Electronics          4   ? 34.50      15%Credit Card     East    Patna      Delivered
-ORD0090   20-02-2025CUST011     Prefer not to   37Water Bottle     Home & Kitche        1   ? 12.50      10%UPI             East    Kolkata    Delivered
-ORD0091   11-07-2025CUST016     Prefer not to   44Wireless Mouse   Electronics          4   ? 34.50       0%Net Banking     West    Ahmedabad  Delivered
-ORD0092   09-11-2025CUST044     Female          49Coffee Maker     Home & Kitche        4   ? 79.00      15%Net Banking     South   Kozhikode  Delivered
-ORD0093   11-05-2025CUST019     Prefer not to   52Business Skills  Books                1   ? 19.99      10%Credit Card     East    Kolkata    Cancelled
-ORD0094   20-12-2025CUST055     Male            30Sneakers         Fashion              3   ? 64.00      10%Cash on DeliveryEast    BhubaneswarDelivered
-ORD0095   22-10-2025CUST002     Prefer not to   43Desk Lamp        Home & Kitche        3   ? 28.00       5%Debit Card      West    Mumbai     Returned
-ORD0096   28-04-2025CUST015     Prefer not to   30USB Hub          Electronics          5   ? 22.00       5%Net Banking     West    Pune       Delivered
-ORD0097   14-08-2025CUST024     Prefer not to   26Wireless Mouse   Electronics          1   ? 18.99      15%UPI             West    Pune       Delivered
-ORD0098   09-03-2025CUST034     Prefer not to   35Data Analytics GuBooks                5   ? 32.50       5%Credit Card     North   Jaipur     Cancelled
-ORD0099   28-08-2025CUST049     Female          61Sneakers         Fashion              1   ? 64.00       0%Cash on DeliverySouth   Bengaluru  Delivered
-ORD0100   02-10-2025CUST024     Prefer not to   65Python Basics    Books                1   ? 24.99      10%Debit Card      West    Ahmedabad  Cancelled
-ORD0101   30-08-2025CUST036     Male            57T-Shirt          Fashion              1   ? 15.00      15%Credit Card     North   Lucknow    Delivered
-ORD0102   01-03-2025CUST003     Male            49Business Skills  Books                2   ? 19.99       0%UPI             East    Kolkata    Delivered
-ORD0103   09-07-2025CUST038     Prefer not to   64Desk Lamp        Home & Kitche        5   ? 28.00      10%Credit Card     East    BhubaneswarDelivered
-ORD0104   17-01-2025CUST029     Male            33SQL Handbook     Books                3   ? 27.00       0%Debit Card      West    Mumbai     Delivered
-ORD0105   22-05-2025CUST055     Male            23T-Shirt          Fashion              2   ? 15.00       0%Credit Card     East    Patna      Returned
-ORD0106   05-05-2025CUST014     Female          53Wireless Mouse   Electronics          2   ? 18.99      15%Credit Card     West    Ahmedabad  Delivered
-ORD0107   02-11-2025CUST055     Female          26Storage Box      Home & Kitche        1   ? 16.75       5%Net Banking     North   Jaipur     Delivered
-ORD0108   08-01-2025CUST038     Male            19Wireless Mouse   Electronics          3   ? 18.99       0%Credit Card     North   Jaipur     Delivered
-ORD0109   02-02-2025CUST050     Male            50Desk Lamp        Home & Kitche        4   ? 28.00      10%Net Banking     South   Kochi      Cancelled
-ORD0110   23-08-2025CUST031     Male            45Water Bottle     Home & Kitche        1   ? 12.50       0%UPI             West    Pune       Cancelled
-ORD0111   08-11-2025CUST009     Male            57Wireless Mouse   Electronics          2   ? 18.99       0%Net Banking     West    Ahmedabad  Delivered
-ORD0112   16-09-2025CUST007     Prefer not to   25Business Skills  Books                5   ? 19.99      10%Net Banking     East    Patna      Delivered
-ORD0113   31-07-2025CUST026     Male            64SQL Handbook     Books                3   ? 27.00      10%UPI             North   Jaipur     Cancelled
-ORD0114   20-03-2025CUST006     Female          23Sneakers         Fashion              4   ? 64.00       0%Cash on DeliveryWest    Mumbai     Delivered
-ORD0115   10-12-2025CUST023     Prefer not to   45Water Bottle     Home & Kitche        1   ? 12.50      10%UPI             West    Pune       Returned
-ORD0116   23-10-2025CUST010     Prefer not to   48Sneakers         Fashion              5   ? 64.00       0%Credit Card     South   Kochi      Delivered
-ORD0117   21-10-2025CUST055     Prefer not to   57T-Shirt          Fashion              2   ? 15.00      10%Net Banking     West    Ahmedabad  Returned
-ORD0118   03-04-2025CUST022     Male            18Keyboard         Electronics          3   ? 34.50       5%Credit Card     South   Kozhikode  Returned
-ORD0119   21-11-2025CUST048     Prefer not to   31Python Basics    Books                1   ? 24.99       0%Cash on DeliveryNorth   Jaipur     Cancelled
-ORD0120   09-06-2025CUST039     Female          21Backpack         Fashion              3   ? 39.99      15%Credit Card     West    Mumbai     Returned
+﻿OrderID,OrderDate,CustomerID,Gender,Age,Product,Category,Quantity,UnitPrice,Discount,PaymentMethod,Region,City,OrderStatus
+ORD0001,2025-05-06,CUST048,Female,61,Wireless Mouse,Electronics,2,18.99,0.00,Net Banking,West,Mumbai,Returned
+ORD0002,2025-02-17,CUST033,Prefer not to say,19,Python Basics,Books,2,24.99,0.00,Net Banking,South,Kozhikode,Returned
+ORD0003,2025-10-29,CUST049,Female,62,Data Analytics Guide,Books,3,32.50,0.00,Cash on Delivery,East,Bhubaneswar,Delivered
+ORD0004,2025-02-22,CUST007,Male,40,Coffee Maker,Home & Kitchen,1,79.00,0.10,Net Banking,West,Pune,Delivered
+ORD0005,2025-02-10,CUST054,Prefer not to say,57,Python Basics,Books,5,24.99,0.05,Debit Card,East,Patna,Delivered
+ORD0006,2025-05-29,CUST007,Male,35,Wireless Mouse,Electronics,1,18.99,0.00,Cash on Delivery,North,Lucknow,Delivered
+ORD0007,2025-04-18,CUST039,Prefer not to say,28,Storage Box,Home & Kitchen,3,16.75,0.00,Net Banking,West,Ahmedabad,Delivered
+ORD0008,2025-05-19,CUST044,Male,,Desk Lamp,Home & Kitchen,5,28.00,0.00,Credit Card,East,Kolkata,Delivered
+ORD0009,2025-04-19,CUST014,Prefer not to say,49,Business Skills,Books,5,19.99,0.05,Cash on Delivery,South,Chennai,Delivered
+ORD0010,2025-10-15,CUST048,Prefer not to say,45,Backpack,Fashion,5,39.99,0.05,Net Banking,North,Jaipur,Delivered
+ORD0011,2025-02-16,CUST010,Prefer not to say,28,Coffee Maker,Home & Kitchen,1,79.00,0.00,Cash on Delivery,East,Patna,Delivered
+ORD0012,2025-09-28,CUST001,Prefer not to say,64,SQL Handbook,Books,3,27.00,0.15,UPI,East,Patna,Returned
+ORD0013,2025-05-31,CUST030,Female,64,Sneakers,Fashion,4,64.00,0.00,Debit Card,South,Kozhikode,Returned
+ORD0014,2025-03-20,CUST035,Prefer not to say,18,Keyboard,Electronics,3,34.50,0.00,Net Banking,North,Jaipur,Cancelled
+ORD0015,2025-06-07,CUST016,Prefer not to say,23,Wireless Mouse,Electronics,2,18.99,0.00,UPI,West,Unknown,Cancelled
+ORD0016,2025-12-04,CUST011,Male,51,Headphones,Electronics,4,49.99,0.15,Net Banking,North,Jaipur,Delivered
+ORD0017,2025-12-10,CUST034,Male,25,Storage Box,Home & Kitchen,3,16.75,0.10,Credit Card,East,Kolkata,Delivered
+ORD0018,2025-10-29,CUST005,Prefer not to say,58,T-Shirt,Fashion,2,15.00,0.00,UPI,North,Delhi,Delivered
+ORD0019,2025-09-21,CUST043,Male,31,Keyboard,Electronics,2,34.50,0.05,Net Banking,South,Kozhikode,Returned
+ORD0020,2025-07-28,CUST007,Prefer not to say,45,Data Analytics Guide,Books,2,32.50,0.00,Debit Card,East,Bhubaneswar,Cancelled
+ORD0021,2025-02-01,CUST052,Female,33,Python Basics,Books,4,24.99,0.05,Credit Card,South,Kozhikode,Returned
+ORD0022,2025-04-04,CUST016,Female,46,Data Analytics Guide,Books,3,32.50,0.10,Net Banking,East,Kolkata,Delivered
+ORD0023,2025-03-27,CUST031,Female,43,Wireless Mouse,Electronics,4,18.99,0.10,Unknown,North,Delhi,Cancelled
+ORD0024,2025-08-21,CUST045,Prefer not to say,53,USB Hub,Electronics,3,22.00,0.10,Cash on Delivery,West,Mumbai,Delivered
+ORD0025,2025-10-24,CUST048,Male,21,Backpack,Fashion,5,39.99,0.00,UPI,South,Chennai,Returned
+ORD0026,2025-04-06,CUST005,Prefer not to say,33,Water Bottle,Home & Kitchen,1,12.50,0.15,Cash on Delivery,South,Kochi,Returned
+ORD0027,2025-08-03,CUST034,Male,34,Water Bottle,Home & Kitchen,5,12.50,0.15,Credit Card,South,Bengaluru,Delivered
+ORD0028,2025-12-10,CUST021,Female,18,Jacket,Fashion,3,89.00,0.10,Cash on Delivery,North,Lucknow,Returned
+ORD0029,2025-09-17,CUST023,Female,33,Wireless Mouse,Electronics,3,18.99,0.00,Debit Card,North,Jaipur,Delivered
+ORD0030,2025-12-08,CUST043,Female,26,Business Skills,Books,5,19.99,0.05,Debit Card,South,Kochi,Delivered
+ORD0031,2025-11-06,CUST014,Prefer not to say,58,Storage Box,Home & Kitchen,2,16.75,0.05,Debit Card,West,Ahmedabad,Cancelled
+ORD0032,2025-11-21,CUST003,Female,,T-Shirt,Fashion,4,15.00,0.05,Credit Card,South,Bengaluru,Delivered
+ORD0033,2025-02-27,CUST035,Female,41,SQL Handbook,Books,1,27.00,0.00,Net Banking,South,Kozhikode,Cancelled
+ORD0034,2025-07-06,CUST014,Prefer not to say,33,Water Bottle,Home & Kitchen,1,12.50,0.05,UPI,West,Pune,Returned
+ORD0035,2025-03-25,CUST002,Female,65,Data Analytics Guide,Books,2,32.50,0.10,Debit Card,North,Jaipur,Delivered
+ORD0036,2025-07-15,CUST015,Female,47,Backpack,Fashion,1,39.99,0.10,Debit Card,South,Bengaluru,Delivered
+ORD0037,2025-07-24,CUST005,Male,40,Water Bottle,Home & Kitchen,3,12.50,0.05,Net Banking,North,Jaipur,Returned
+ORD0038,2025-05-14,CUST017,Female,24,T-Shirt,Fashion,2,15.00,0.15,Net Banking,South,Chennai,Delivered
+ORD0039,2025-07-17,CUST017,Female,63,Jacket,Fashion,5,89.00,0.00,Cash on Delivery,South,Kochi,Returned
+ORD0040,2025-02-05,CUST021,Prefer not to say,25,Storage Box,Home & Kitchen,3,16.75,0.15,Debit Card,East,Patna,Delivered
+ORD0041,2025-12-23,CUST009,Female,44,Business Skills,Books,3,19.99,0.15,Cash on Delivery,East,Patna,Delivered
+ORD0042,2025-06-05,CUST028,Prefer not to say,56,Jacket,Fashion,3,89.00,0.00,Debit Card,South,Chennai,Cancelled
+ORD0043,2025-03-28,CUST033,Prefer not to say,58,Data Analytics Guide,Books,1,32.50,0.05,Net Banking,East,Bhubaneswar,Delivered
+ORD0044,2025-04-12,CUST003,Female,48,Storage Box,Home & Kitchen,2,16.75,0.00,Net Banking,North,Delhi,Cancelled
+ORD0045,2025-09-11,CUST010,Prefer not to say,62,Data Analytics Guide,Books,4,32.50,0.00,UPI, south ,Kolkata,Cancelled
+ORD0046,2025-01-26,CUST055,Female,47,Coffee Maker,Home & Kitchen,5,79.00,0.00,Credit Card,East,Bhubaneswar,Returned
+ORD0047,2025-10-08,CUST048,Male,46,Jacket,Fashion,4,89.00,0.00,Debit Card,East,Kolkata,Delivered
+ORD0048,2025-08-14,CUST016,Male,39,Data Analytics Guide,Books,1,32.50,0.05,Debit Card,West,Ahmedabad,Delivered
+ORD0049,2025-07-16,CUST005,Male,44,Coffee Maker,Home & Kitchen,2,79.00,0.00,Debit Card,North,Lucknow,Cancelled
+ORD0050,2025-08-04,CUST045,Female,54,Python Basics,Books,4,24.99,0.15,Cash on Delivery,North,Jaipur,Delivered
+ORD0051,2025-08-03,CUST052,Prefer not to say,32,Sneakers,Fashion,5,64.00,0.15,Cash on Delivery,East,Kolkata,Delivered
+ORD0052,2025-07-19,CUST047,Female,47,SQL Handbook,Books,3,27.00,0.10,Credit Card,South,Kochi,Cancelled
+ORD0053,2025-03-11,CUST004,Male,42,Wireless Mouse,Electronics,4,18.99,0.00,Debit Card,East,Kolkata,Cancelled
+ORD0054,2025-05-23,CUST054,Female,48,Sneakers,Fashion,4,64.00,0.05,UPI,East,Patna,Returned
+ORD0055,2025-11-29,CUST049,Female,33,Keyboard,Electronics,1,34.50,0.00,Credit Card,North,Delhi,Returned
+ORD0056,2025-08-31,CUST014,Male,62,Coffee Maker,Home & Kitchen,1,79.00,0.15,Debit Card,North,Jaipur,Delivered
+ORD0057,2025-02-25,CUST020,Prefer not to say,61,Headphones,Electronics,5,49.99,0.00,Cash on Delivery,West,Pune,Delivered
+ORD0058,2025-12-23,CUST052,Female,54,Headphones,Electronics,3,49.99,0.15,UPI,South,Bengaluru,Returned
+ORD0059,2025-09-17,CUST055,Male,49,Business Skills,Books,3,19.99,0.00,UPI,South,Unknown,Delivered
+ORD0060,2025-04-01,CUST040,Prefer not to say,48,Data Analytics Guide,Books,5,32.50,0.05,Cash on Delivery,East,Bhubaneswar,Returned
+ORD0061,2025-02-14,CUST016,Male,54,Sneakers,Fashion,3,64.00,0.10,Net Banking,North,Lucknow,Cancelled
+ORD0062,2025-06-16,CUST014,Male,34,T-Shirt,Fashion,2,15.00,0.10,Debit Card,East,Bhubaneswar,Returned
+ORD0063,2025-02-13,CUST032,Prefer not to say,33,T-Shirt,Fashion,2,15.00,0.10,Cash on Delivery,North,Lucknow,Cancelled
+ORD0064,2025-05-31,CUST045,Female,37,Python Basics,Books,2,24.99,0.10,Net Banking,South,Bengaluru,Cancelled
+ORD0065,2025-06-30,CUST020,Male,32,Jacket,Fashion,4,89.00,0.05,UPI,West,Ahmedabad,Delivered
+ORD0066,2025-04-09,CUST018,Prefer not to say,55,T-Shirt,Fashion,2,15.00,0.10,Net Banking,North,Lucknow,Delivered
+ORD0067,2025-04-27,CUST020,Female,63,Headphones,Electronics,3,49.99,0.00,Net Banking,West,Mumbai,Delivered
+ORD0068,2025-12-24,CUST007,Female,54,Wireless Mouse,Electronics,2,18.99,0.10,Debit Card,West,Pune,Cancelled
+ORD0069,2025-01-27,CUST008,Female,43,Business Skills,Books,3,19.99,0.10,Cash on Delivery,North,Delhi,Returned
+ORD0070,2025-10-16,CUST016,Female,53,Headphones,Electronics,3,49.99,0.00,Cash on Delivery,North,Lucknow,Returned
+ORD0071,2025-08-15,CUST028,Male,54,Desk Lamp,Home & Kitchen,3,28.00,0.15,Net Banking,East,Kolkata,Returned
+ORD0072,2025-05-16,CUST016,Female,53,Headphones,Electronics,1,49.99,0.00,UPI,North,Delhi,Delivered
+ORD0073,2025-05-30,CUST019,Prefer not to say,36,SQL Handbook,Books,1,27.00,0.00,Cash on Delivery,East,Kolkata,Delivered
+ORD0074,2025-02-28,CUST042,Female,35,Backpack,Fashion,5,39.99,0.00,Credit Card,East,Kolkata,Delivered
+ORD0075,2025-08-13,CUST045,Male,62,Storage Box,Home & Kitchen,1,16.75,0.10,Cash on Delivery,West,Pune,Returned
+ORD0076,2025-11-03,CUST048,Male,56,SQL Handbook,Books,1,27.00,0.10,Debit Card,South,Kochi,Delivered
+ORD0077,2025-10-23,CUST031,Prefer not to say,,Water Bottle,Home & Kitchen,1,12.50,0.00,Cash on Delivery,West,Pune,Delivered
+ORD0078,2025-08-29,CUST022,Male,60,SQL Handbook,Books,3,27.00,0.10,UPI,South,Kozhikode,Delivered
+ORD0079,2025-12-06,CUST003,Male,23,SQL Handbook,Books,4,27.00,0.15,Debit Card,West,Pune,Delivered
+ORD0080,2025-12-03,CUST027,Female,30,USB Hub,Electronics,5,22.00,0.10,Net Banking,South,Bengaluru,Returned
+ORD0081,2025-04-15,CUST009,Male,46,SQL Handbook,Books,3,27.00,0.15,Cash on Delivery,South,Kochi,Delivered
+ORD0082,2025-10-10,CUST027,Female,32,Coffee Maker,Home & Kitchen,1,79.00,0.15,UPI,West,Pune,Delivered
+ORD0083,2025-09-18,CUST054,Male,48,Desk Lamp,Home & Kitchen,3,28.00,0.10,Credit Card,West,Pune,Returned
+ORD0084,2025-11-03,CUST005,Male,44,Desk Lamp,Home & Kitchen,5,28.00,0.00,Debit Card,North,Lucknow,Delivered
+ORD0085,2025-10-28,CUST010,Male,52,Keyboard,Electronics,5,34.50,0.10,Cash on Delivery,West,Pune,Delivered
+ORD0086,2025-04-07,CUST025,Female,44,SQL Handbook,Books,2,27.00,0.15,UPI,West,Pune,Cancelled
+ORD0087,2025-09-11,CUST033,Prefer not to say,39,SQL Handbook,Books,1,27.00,0.00,UPI,North,Jaipur,Delivered
+ORD0088,2025-07-29,CUST031,Male,39,Python Basics,Books,2,24.99,0.00,Net Banking,North,Lucknow,Cancelled
+ORD0089,2025-06-12,CUST003,Prefer not to say,22,Keyboard,Electronics,4,34.50,0.15,Credit Card,East,Patna,Delivered
+ORD0090,2025-02-20,CUST011,Prefer not to say,37,Water Bottle,Home & Kitchen,1,12.50,0.10,UPI,East,Kolkata,Delivered
+ORD0091,2025-07-11,CUST016,Prefer not to say,44,Wireless Mouse,Electronics,4,34.50,0.00,Net Banking,West,Ahmedabad,Delivered
+ORD0092,2025-11-09,CUST044,Female,49,Coffee Maker,Home & Kitchen,4,79.00,0.15,Net Banking,South,Kozhikode,Delivered
+ORD0093,2025-05-11,CUST019,Prefer not to say,52,Business Skills,Books,1,19.99,0.10,Credit Card,East,Kolkata,Cancelled
+ORD0094,2025-12-20,CUST055,Male,30,Sneakers,Fashion,3,64.00,0.10,Cash on Delivery,East,Bhubaneswar,Delivered
+ORD0095,2025-10-22,CUST002,Prefer not to say,43,Desk Lamp,Home & Kitchen,3,28.00,0.05,Debit Card,West,Mumbai,Returned
+ORD0096,2025-04-28,CUST015,Prefer not to say,30,USB Hub,Electronics,5,22.00,0.05,Net Banking,West,Pune,Delivered
+ORD0097,2025-08-14,CUST024,Prefer not to say,26,Wireless Mouse,Electronics,1,18.99,0.15,UPI,West,Pune,Delivered
+ORD0098,2025-03-09,CUST034,Prefer not to say,35,Data Analytics Guide,Books,5,32.50,0.05,Credit Card,North,Jaipur,Cancelled
+ORD0099,2025-08-28,CUST049,Female,61,Sneakers,Fashion,1,64.00,0.00,Cash on Delivery,South,Bengaluru,Delivered
+ORD0100,2025-10-02,CUST024,Prefer not to say,65,Python Basics,Books,1,24.99,0.10,Debit Card,West,Ahmedabad,Cancelled
+ORD0101,2025-08-30,CUST036,Male,57,T-Shirt,Fashion,1,15.00,0.15,Credit Card,North,Lucknow,Delivered
+ORD0102,2025-03-01,CUST003,Male,49,Business Skills,Books,2,19.99,0.00,UPI,East,Kolkata,Delivered
+ORD0103,2025-07-09,CUST038,Prefer not to say,64,Desk Lamp,Home & Kitchen,5,28.00,0.10,Credit Card,East,Bhubaneswar,Delivered
+ORD0104,2025-01-17,CUST029,Male,33,SQL Handbook,Books,3,27.00,0.00,Debit Card,West,Mumbai,Delivered
+ORD0105,2025-05-22,CUST055,Male,23,T-Shirt,Fashion,2,15.00,0.00,Credit Card,East,Patna,Returned
+ORD0106,2025-05-05,CUST014,Female,53,Wireless Mouse,Electronics,2,18.99,0.15,Credit Card,West,Ahmedabad,Delivered
+ORD0107,2025-11-02,CUST055,Female,26,Storage Box,Home & Kitchen,1,16.75,0.05,Net Banking,North,Jaipur,Delivered
+ORD0108,2025-01-08,CUST038,Male,19,Wireless Mouse,Electronics,3,18.99,0.00,Credit Card,North,Jaipur,Delivered
+ORD0109,2025-02-02,CUST050,Male,50,Desk Lamp,Home & Kitchen,4,28.00,0.10,Net Banking,South,Kochi,Cancelled
+ORD0110,2025-08-23,CUST031,Male,45,Water Bottle,Home & Kitchen,1,12.50,0.00,UPI,West,Pune,Cancelled
+ORD0111,2025-11-08,CUST009,Male,57,Wireless Mouse,Electronics,2,18.99,0.00,Net Banking,West,Ahmedabad,Delivered
+ORD0112,2025-09-16,CUST007,Prefer not to say,25,Business Skills,Books,5,19.99,0.10,Net Banking,East,Patna,Delivered
+ORD0113,2025-07-31,CUST026,Male,64,SQL Handbook,Books,3,27.00,0.10,UPI,North,Jaipur,Cancelled
+ORD0114,2025-03-20,CUST006,Female,23,Sneakers,Fashion,4,64.00,0.00,Cash on Delivery,West,Mumbai,Delivered
+ORD0115,2025-12-10,CUST023,Prefer not to say,45,Water Bottle,Home & Kitchen,1,12.50,0.10,UPI,West,Pune,Returned
+ORD0116,2025-10-23,CUST010,Prefer not to say,48,Sneakers,Fashion,5,64.00,0.00,Credit Card,South,Kochi,Delivered
+ORD0117,2025-10-21,CUST055,Prefer not to say,57,T-Shirt,Fashion,2,15.00,0.10,Net Banking,West,Ahmedabad,Returned
+ORD0118,2025-04-03,CUST022,Male,18,Keyboard,Electronics,3,34.50,0.05,Credit Card,South,Kozhikode,Returned
+ORD0119,2025-11-21,CUST048,Prefer not to say,31,Python Basics,Books,1,24.99,0.00,Cash on Delivery,North,Jaipur,Cancelled
+ORD0120,2025-06-09,CUST039,Female,21,Backpack,Fashion,3,39.99,0.15,Credit Card,West,Mumbai,Returned
