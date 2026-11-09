@@ -1,0 +1,66 @@
+OrderID,OrderDate,CustomerID,Gender,Age,Product,Category,Quantity,UnitPrice,Discount,PaymentMethod,Region,City,OrderStatus,Revenue
+ORD0003,2025-10-29,CUST049,Female,62.0,Data Analytics Guide,Books,3,32.5,0.0,Cash on Delivery,East,Bhubaneswar,Delivered,97.5
+ORD0004,2025-02-22,CUST007,Male,40.0,Coffee Maker,Home & Kitchen,1,79.0,0.1,Net Banking,West,Pune,Delivered,71.10000000000001
+ORD0005,2025-02-10,CUST054,Prefer not to say,57.0,Python Basics,Books,5,24.99,0.05,Debit Card,East,Patna,Delivered,118.70249999999999
+ORD0006,2025-05-29,CUST007,Male,35.0,Wireless Mouse,Electronics,1,18.99,0.0,Cash on Delivery,North,Lucknow,Delivered,18.99
+ORD0007,2025-04-18,CUST039,Prefer not to say,28.0,Storage Box,Home & Kitchen,3,16.75,0.0,Net Banking,West,Ahmedabad,Delivered,50.25
+ORD0008,2025-05-19,CUST044,Male,,Desk Lamp,Home & Kitchen,5,28.0,0.0,Credit Card,East,Kolkata,Delivered,140.0
+ORD0009,2025-04-19,CUST014,Prefer not to say,49.0,Business Skills,Books,5,19.99,0.05,Cash on Delivery,South,Chennai,Delivered,94.95249999999999
+ORD0010,2025-10-15,CUST048,Prefer not to say,45.0,Backpack,Fashion,5,39.99,0.05,Net Banking,North,Jaipur,Delivered,189.95250000000001
+ORD0011,2025-02-16,CUST010,Prefer not to say,28.0,Coffee Maker,Home & Kitchen,1,79.0,0.0,Cash on Delivery,East,Patna,Delivered,79.0
+ORD0016,2025-12-04,CUST011,Male,51.0,Headphones,Electronics,4,49.99,0.15,Net Banking,North,Jaipur,Delivered,169.966
+ORD0017,2025-12-10,CUST034,Male,25.0,Storage Box,Home & Kitchen,3,16.75,0.1,Credit Card,East,Kolkata,Delivered,45.225
+ORD0018,2025-10-29,CUST005,Prefer not to say,58.0,T-Shirt,Fashion,2,15.0,0.0,UPI,North,Delhi,Delivered,30.0
+ORD0022,2025-04-04,CUST016,Female,46.0,Data Analytics Guide,Books,3,32.5,0.1,Net Banking,East,Kolkata,Delivered,87.75
+ORD0024,2025-08-21,CUST045,Prefer not to say,53.0,USB Hub,Electronics,3,22.0,0.1,Cash on Delivery,West,Mumbai,Delivered,59.4
+ORD0027,2025-08-03,CUST034,Male,34.0,Water Bottle,Home & Kitchen,5,12.5,0.15,Credit Card,South,Bengaluru,Delivered,53.125
+ORD0029,2025-09-17,CUST023,Female,33.0,Wireless Mouse,Electronics,3,18.99,0.0,Debit Card,North,Jaipur,Delivered,56.97
+ORD0030,2025-12-08,CUST043,Female,26.0,Business Skills,Books,5,19.99,0.05,Debit Card,South,Kochi,Delivered,94.95249999999999
+ORD0032,2025-11-21,CUST003,Female,,T-Shirt,Fashion,4,15.0,0.05,Credit Card,South,Bengaluru,Delivered,57.0
+ORD0035,2025-03-25,CUST002,Female,65.0,Data Analytics Guide,Books,2,32.5,0.1,Debit Card,North,Jaipur,Delivered,58.5
+ORD0036,2025-07-15,CUST015,Female,47.0,Backpack,Fashion,1,39.99,0.1,Debit Card,South,Bengaluru,Delivered,35.991
+ORD0038,2025-05-14,CUST017,Female,24.0,T-Shirt,Fashion,2,15.0,0.15,Net Banking,South,Chennai,Delivered,25.5
+ORD0040,2025-02-05,CUST021,Prefer not to say,25.0,Storage Box,Home & Kitchen,3,16.75,0.15,Debit Card,East,Patna,Delivered,42.7125
+ORD0041,2025-12-23,CUST009,Female,44.0,Business Skills,Books,3,19.99,0.15,Cash on Delivery,East,Patna,Delivered,50.9745
+ORD0043,2025-03-28,CUST033,Prefer not to say,58.0,Data Analytics Guide,Books,1,32.5,0.05,Net Banking,East,Bhubaneswar,Delivered,30.875
+ORD0047,2025-10-08,CUST048,Male,46.0,Jacket,Fashion,4,89.0,0.0,Debit Card,East,Kolkata,Delivered,356.0
+ORD0048,2025-08-14,CUST016,Male,39.0,Data Analytics Guide,Books,1,32.5,0.05,Debit Card,West,Ahmedabad,Delivered,30.875
+ORD0050,2025-08-04,CUST045,Female,54.0,Python Basics,Books,4,24.99,0.15,Cash on Delivery,North,Jaipur,Delivered,84.966
+ORD0051,2025-08-03,CUST052,Prefer not to say,32.0,Sneakers,Fashion,5,64.0,0.15,Cash on Delivery,East,Kolkata,Delivered,272.0
+ORD0056,2025-08-31,CUST014,Male,62.0,Coffee Maker,Home & Kitchen,1,79.0,0.15,Debit Card,North,Jaipur,Delivered,67.14999999999999
+ORD0057,2025-02-25,CUST020,Prefer not to say,61.0,Headphones,Electronics,5,49.99,0.0,Cash on Delivery,West,Pune,Delivered,249.95000000000002
+ORD0059,2025-09-17,CUST055,Male,49.0,Business Skills,Books,3,19.99,0.0,UPI,South,Unknown,Delivered,59.97
+ORD0065,2025-06-30,CUST020,Male,32.0,Jacket,Fashion,4,89.0,0.05,UPI,West,Ahmedabad,Delivered,338.2
+ORD0066,2025-04-09,CUST018,Prefer not to say,55.0,T-Shirt,Fashion,2,15.0,0.1,Net Banking,North,Lucknow,Delivered,27.0
+ORD0067,2025-04-27,CUST020,Female,63.0,Headphones,Electronics,3,49.99,0.0,Net Banking,West,Mumbai,Delivered,149.97
+ORD0072,2025-05-16,CUST016,Female,53.0,Headphones,Electronics,1,49.99,0.0,UPI,North,Delhi,Delivered,49.99
+ORD0073,2025-05-30,CUST019,Prefer not to say,36.0,SQL Handbook,Books,1,27.0,0.0,Cash on Delivery,East,Kolkata,Delivered,27.0
+ORD0074,2025-02-28,CUST042,Female,35.0,Backpack,Fashion,5,39.99,0.0,Credit Card,East,Kolkata,Delivered,199.95000000000002
+ORD0076,2025-11-03,CUST048,Male,56.0,SQL Handbook,Books,1,27.0,0.1,Debit Card,South,Kochi,Delivered,24.3
+ORD0077,2025-10-23,CUST031,Prefer not to say,,Water Bottle,Home & Kitchen,1,12.5,0.0,Cash on Delivery,West,Pune,Delivered,12.5
+ORD0078,2025-08-29,CUST022,Male,60.0,SQL Handbook,Books,3,27.0,0.1,UPI,South,Kozhikode,Delivered,72.9
+ORD0079,2025-12-06,CUST003,Male,23.0,SQL Handbook,Books,4,27.0,0.15,Debit Card,West,Pune,Delivered,91.8
+ORD0081,2025-04-15,CUST009,Male,46.0,SQL Handbook,Books,3,27.0,0.15,Cash on Delivery,South,Kochi,Delivered,68.85
+ORD0082,2025-10-10,CUST027,Female,32.0,Coffee Maker,Home & Kitchen,1,79.0,0.15,UPI,West,Pune,Delivered,67.14999999999999
+ORD0084,2025-11-03,CUST005,Male,44.0,Desk Lamp,Home & Kitchen,5,28.0,0.0,Debit Card,North,Lucknow,Delivered,140.0
+ORD0085,2025-10-28,CUST010,Male,52.0,Keyboard,Electronics,5,34.5,0.1,Cash on Delivery,West,Pune,Delivered,155.25
+ORD0087,2025-09-11,CUST033,Prefer not to say,39.0,SQL Handbook,Books,1,27.0,0.0,UPI,North,Jaipur,Delivered,27.0
+ORD0089,2025-06-12,CUST003,Prefer not to say,22.0,Keyboard,Electronics,4,34.5,0.15,Credit Card,East,Patna,Delivered,117.3
+ORD0090,2025-02-20,CUST011,Prefer not to say,37.0,Water Bottle,Home & Kitchen,1,12.5,0.1,UPI,East,Kolkata,Delivered,11.25
+ORD0091,2025-07-11,CUST016,Prefer not to say,44.0,Wireless Mouse,Electronics,4,34.5,0.0,Net Banking,West,Ahmedabad,Delivered,138.0
+ORD0092,2025-11-09,CUST044,Female,49.0,Coffee Maker,Home & Kitchen,4,79.0,0.15,Net Banking,South,Kozhikode,Delivered,268.59999999999997
+ORD0094,2025-12-20,CUST055,Male,30.0,Sneakers,Fashion,3,64.0,0.1,Cash on Delivery,East,Bhubaneswar,Delivered,172.8
+ORD0096,2025-04-28,CUST015,Prefer not to say,30.0,USB Hub,Electronics,5,22.0,0.05,Net Banking,West,Pune,Delivered,104.5
+ORD0097,2025-08-14,CUST024,Prefer not to say,26.0,Wireless Mouse,Electronics,1,18.99,0.15,UPI,West,Pune,Delivered,16.141499999999997
+ORD0099,2025-08-28,CUST049,Female,61.0,Sneakers,Fashion,1,64.0,0.0,Cash on Delivery,South,Bengaluru,Delivered,64.0
+ORD0101,2025-08-30,CUST036,Male,57.0,T-Shirt,Fashion,1,15.0,0.15,Credit Card,North,Lucknow,Delivered,12.75
+ORD0102,2025-03-01,CUST003,Male,49.0,Business Skills,Books,2,19.99,0.0,UPI,East,Kolkata,Delivered,39.98
+ORD0103,2025-07-09,CUST038,Prefer not to say,64.0,Desk Lamp,Home & Kitchen,5,28.0,0.1,Credit Card,East,Bhubaneswar,Delivered,126.0
+ORD0104,2025-01-17,CUST029,Male,33.0,SQL Handbook,Books,3,27.0,0.0,Debit Card,West,Mumbai,Delivered,81.0
+ORD0106,2025-05-05,CUST014,Female,53.0,Wireless Mouse,Electronics,2,18.99,0.15,Credit Card,West,Ahmedabad,Delivered,32.282999999999994
+ORD0107,2025-11-02,CUST055,Female,26.0,Storage Box,Home & Kitchen,1,16.75,0.05,Net Banking,North,Jaipur,Delivered,15.9125
+ORD0108,2025-01-08,CUST038,Male,19.0,Wireless Mouse,Electronics,3,18.99,0.0,Credit Card,North,Jaipur,Delivered,56.97
+ORD0111,2025-11-08,CUST009,Male,57.0,Wireless Mouse,Electronics,2,18.99,0.0,Net Banking,West,Ahmedabad,Delivered,37.98
+ORD0112,2025-09-16,CUST007,Prefer not to say,25.0,Business Skills,Books,5,19.99,0.1,Net Banking,East,Patna,Delivered,89.955
+ORD0114,2025-03-20,CUST006,Female,23.0,Sneakers,Fashion,4,64.0,0.0,Cash on Delivery,West,Mumbai,Delivered,256.0
+ORD0116,2025-10-23,CUST010,Prefer not to say,48.0,Sneakers,Fashion,5,64.0,0.0,Credit Card,South,Kochi,Delivered,320.0

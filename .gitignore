@@ -1,3 +1,15 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
@@ -5,14 +17,6 @@
 # Power BI temporary files
 *.tmp
 
-# Python cache
-__pycache__/
-*.pyc
-
 # Environment variables
 .env
 .env.*
-
-# Operating system
-.DS_Store
-Thumbs.db
